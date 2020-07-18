@@ -1,19 +1,7 @@
 # Imports
 import bs4
 import requests
-# import numpy as np
 from bs4 import BeautifulSoup
-# from datetime import datetime
-
-# import matplotlib
-# import matplotlib.pyplot as plt
-
-
-# Funções para o modelo matemático
-# import scipy
-# from scipy.optimize import fsolve
-# from scipy.optimize import curve_fit
-# from sklearn.metrics import mean_squared_error
 
 # URL Base
 url_base = 'https://www.who.int'
